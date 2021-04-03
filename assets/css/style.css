@@ -16,18 +16,18 @@ html {
 
 body {
     marginn:0;
-    font-family: Geneva, Tahoma, Verdana, sans-serif; /* */
+    font-family: Arial, Helvetica, sans-serif; /* */
     
 }
 
 /*header section with class primary*/
 header.primary {
-    background-color: #EC944A;
+    background-color: #85CCE7;
     text-align: center;
     color: #ffffff;
     text-shadow: 2px 2px #000000;  /*----play and change values -----*/
    /* Long form */
-    padding-top: 40px;
+    padding-top: 50px;
     padding-right: 40px;
     padding-bottom: 20px;
     padding-left: 40px;
@@ -39,7 +39,8 @@ header.primary {
 
 header.primary h1{
     font-size:3.2rem; /* rem or em*/
-    margin: 20px 0; /* 20 pixels on top and bottom and 0 on right and left*/
+    margin: 40px 0; /* 20 pixels on top and bottom and 0 on right and left*/
+    
 }
 
 header.primary a{
@@ -63,5 +64,22 @@ header.primary nav al{
     display:flex;
     flex-direction:row;
     justify-contenet:center;
+}
+
+body {
+   background-color: #5f8799;
+   color: white;
+  
+   
+}
+
+h1 {
+    text-align: center;
+    color: #lightgrey;
+   
+}
+h2{
+    text-align: center;
+    font-size: 15px;
     
 }
