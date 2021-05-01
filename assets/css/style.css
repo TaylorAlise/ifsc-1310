@@ -35,6 +35,7 @@ header.primary {
     padding: 20px 40px;
     /*Top, Bottom, Right, Left */
     padding: 20px 40px;
+   
 }
 
 header.primary h1{
@@ -67,19 +68,15 @@ header.primary nav al{
 }
 
 body {
-   background-color: #5f8799;
-   color: white;
-  
-   
+   font-family: "Copperplate", "Papyrus", "fantasy";
+   background-image: url("../img/artbrain.jpg");
+   color: #1299F8;
+   font-size: 20px;
+
 }
 
 h1 {
     text-align: center;
-    color: #lightgrey;
+    text-shadow: 2px 2px 5px red;
    
-}
-h2{
-    text-align: center;
-    font-size: 15px;
-    
 }

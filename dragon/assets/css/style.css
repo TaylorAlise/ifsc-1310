@@ -1,0 +1,35 @@
+body {
+    
+    background-color: #FFFFFF;
+    color: black;
+    
+    
+    
+}
+
+
+
+h1 {
+    text-align: center;
+    background-image: url("../img/dragoncrew.8k.jpg");
+    padding-top: 20px;
+    height: 650px;
+   font-family: "Freckle Face", "Astigmatic";
+   font-size: 64px;
+   text-shadow: 2px 2px 5px blue;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: medium;
+    font: "Freckle Face";
+    font-size: 22px
+
+  
+}
+
+footer {
+    
+}
+
