@@ -68,15 +68,50 @@ header.primary nav al{
 }
 
 body {
-   font-family: "Copperplate", "Papyrus", "fantasy";
-   background-image: url("../img/artbrain.jpg");
-   color: #1299F8;
+    font-family: "Marker Felt", cursive;
+   background-image: url("../img/painting.jpg");
+   color: #E8E8E8;
    font-size: 20px;
 
 }
 
+#wrap{
+    width:70vw;
+    max-width:900px;
+    margin:40px auto;
+    background:rgba(0,0,0,.5);
+    border:double 3px #c0c0c0;
+    padding:40px;
+}
+
 h1 {
     text-align: center;
-    text-shadow: 2px 2px 5px red;
+    text-decoration: underline;
+    text-shadow: 2px 3px 5px pink;
+    
    
+}
+
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: 2px 3px 5px pink;
+    
+    
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+     text-shadow: 2px 3px 5px pink;
+}
+
+p {
+    text-indent: 50px;
+}
+
+a {
+    color: #ffffff;
+    
+
 }
